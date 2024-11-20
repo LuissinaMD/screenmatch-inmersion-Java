@@ -10,13 +10,13 @@ El programa permite a los usuarios calificar la icónica película Matrix con no
 - Calcula y muestra el promedio de las calificaciones ingresadas.
 - Utiliza un ciclo while para iterar sobre las calificaciones de los usuarios.
 
-  ##Tecnologías utilizadas:
+ ##Tecnologías utilizadas:
   
 - Lenguaje: Java
 - Herramienta de desarrollo: IntelliJ IDEA (u otra de tu elección)
 - JDK: 17 (o superior)
 
-  ##Cómo usar el programa:
+ ##Cómo usar el programa:
   
 1. Asegúrate de tener instalado Java 17 o superior en tu máquina.
 2. Clona este repositorio o copia el código en tu IDE preferido.
@@ -24,7 +24,7 @@ El programa permite a los usuarios calificar la icónica película Matrix con no
 4. Ingresa las calificaciones del 1 al 5 cuando el programa lo solicite.
 5. Observa el promedio calculado al final.
 
-  ##Ejemplo de ejecución
+   ##Ejemplo de ejecución
 - Cuando ejecutas el programa, verás algo como esto:
   
               Bienvenidos a la inmersión en Java
