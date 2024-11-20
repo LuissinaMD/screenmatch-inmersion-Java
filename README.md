@@ -1,9 +1,11 @@
- **Descripción del proyecto:
+# **Desafío Inmersión Java**
+ 
+## **Descripción del proyecto**
  
 Este proyecto forma parte de la Inmersión Java de la semana Tech de Alura Latam y tiene como objetivo poner en práctica conceptos básicos de programación en Java, como estructuras de control, ciclos, manejo de entrada del usuario y operaciones matemáticas.
 El programa permite a los usuarios calificar la icónica película Matrix con notas del 1 al 5 y calcula la media de las calificaciones ingresadas. Es un ejercicio diseñado para fortalecer habilidades fundamentales en programación.
 
-  **Características:
+ ## **Características**
   
 - Presenta información básica sobre la película Matrix.
 - Solicita al usuario tres calificaciones de la película.
@@ -16,7 +18,7 @@ El programa permite a los usuarios calificar la icónica película Matrix con no
 - Herramienta de desarrollo: IntelliJ IDEA (u otra de tu elección)
 - JDK: 17 (o superior)
 
- **Cómo usar el programa:
+## **Cómo usar el programa**
   
 1. Asegúrate de tener instalado Java 17 o superior en tu máquina.
 2. Clona este repositorio o copia el código en tu IDE preferido.
@@ -24,7 +26,7 @@ El programa permite a los usuarios calificar la icónica película Matrix con no
 4. Ingresa las calificaciones del 1 al 5 cuando el programa lo solicite.
 5. Observa el promedio calculado al final.
 
-  **Ejemplo de ejecución
+ ## **Ejemplo de ejecución**
 - Cuando ejecutas el programa, verás algo como esto:
   
               Bienvenidos a la inmersión en Java
@@ -43,6 +45,6 @@ El programa permite a los usuarios calificar la icónica película Matrix con no
               > 5
               La media de la película Matrix calculada por el usuario es: 4.67
 
-  **Créditos:
+ ## **Créditos**
   
 Este proyecto fue desarrollado por Luissina María Mariño Dansey en el marco de la Inmersión Java de la semana Tech de Alura Latam, un taller de aprendizaje intensivo para profundizar conocimientos en Java y programación.
