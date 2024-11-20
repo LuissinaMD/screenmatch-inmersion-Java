@@ -24,7 +24,7 @@ El programa permite a los usuarios calificar la icónica película Matrix con no
 4. Ingresa las calificaciones del 1 al 5 cuando el programa lo solicite.
 5. Observa el promedio calculado al final.
 
-   ##Ejemplo de ejecución
+  ##Ejemplo de ejecución
 - Cuando ejecutas el programa, verás algo como esto:
   
               Bienvenidos a la inmersión en Java
