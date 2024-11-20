@@ -12,7 +12,7 @@ El programa permite a los usuarios calificar la icónica película Matrix con no
 - Calcula y muestra el promedio de las calificaciones ingresadas.
 - Utiliza un ciclo while para iterar sobre las calificaciones de los usuarios.
 
- **Tecnologías utilizadas:
+## **Tecnologías utilizadas**
   
 - Lenguaje: Java
 - Herramienta de desarrollo: IntelliJ IDEA (u otra de tu elección)
