@@ -1,4 +1,4 @@
-  ##Descripción del proyecto
+ ##Descripción del proyecto
 Este proyecto forma parte de la Inmersión Java de la semana Tech de Alura Latam y tiene como objetivo poner en práctica conceptos básicos de programación en Java, como estructuras de control, ciclos, manejo de entrada del usuario y operaciones matemáticas.
 El programa permite a los usuarios calificar la icónica película Matrix con notas del 1 al 5 y calcula la media de las calificaciones ingresadas. Es un ejercicio diseñado para fortalecer habilidades fundamentales en programación.
 
