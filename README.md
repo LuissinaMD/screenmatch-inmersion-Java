@@ -2,7 +2,7 @@
  
 ## **Descripción del proyecto**
  
-Este proyecto forma parte de la Inmersión Java de la semana Tech de Alura Latam y tiene como objetivo poner en práctica conceptos básicos de programación en Java, como estructuras de control, ciclos, manejo de entrada del usuario y operaciones matemáticas.
+Este proyecto forma parte de la Inmersión Java de la [Semana Carrera Tech] de Alura Latam y tiene como objetivo poner en práctica conceptos básicos de programación en Java, como estructuras de control, ciclos, manejo de entrada del usuario y operaciones matemáticas.
 El programa permite a los usuarios calificar la icónica película Matrix con notas del 1 al 5 y calcula la media de las calificaciones ingresadas. Es un ejercicio diseñado para fortalecer habilidades fundamentales en programación.
 
  ## **Características**
@@ -51,4 +51,4 @@ El programa permite a los usuarios calificar la icónica película Matrix con no
 
  ## **Créditos**
   
-Este proyecto fue desarrollado por Luissina María Mariño Dansey en el marco de la Inmersión Java de la semana Tech de Alura Latam, un taller de aprendizaje intensivo para profundizar conocimientos en Java y programación.
+Este proyecto fue desarrollado por Luissina María Mariño Dansey en el marco de la Inmersión Java de la [Semana Carrera Tech] de Alura Latam, un taller de aprendizaje intensivo para profundizar conocimientos en Java y programación. 2024.
