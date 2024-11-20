@@ -45,6 +45,10 @@ El programa permite a los usuarios calificar la icónica película Matrix con no
               > 5
               La media de la película Matrix calculada por el usuario es: 4.67
 
+ ## **Funcionamiento del código**
+
+ [Ver el video] (https://drive.google.com/file/d/1vNdv7PWUmZQmT6BJiAeeJ6ktqGVltlce/view?usp=sharing)
+
  ## **Créditos**
   
 Este proyecto fue desarrollado por Luissina María Mariño Dansey en el marco de la Inmersión Java de la semana Tech de Alura Latam, un taller de aprendizaje intensivo para profundizar conocimientos en Java y programación.
