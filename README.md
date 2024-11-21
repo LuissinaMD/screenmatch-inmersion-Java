@@ -14,4 +14,4 @@ Este proyecto fue realizado como parte de la **Inmersión Java** de la [Semana C
 1. Clona este repositorio a tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/LuissinaMD/screenmatch-inmersion-Java.git
